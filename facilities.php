@@ -692,7 +692,7 @@ $pageName = 'facilities';
                                 <div class="col-xs-12 col-sm-6 col-md-4">
                                     <a href="img/facilities/photo_tabs/04.jpg" data-src="#mt01_st06_04" data-fancybox="mt01_st06">
                                         <div class="fci_sin_med" style="background-image: url('img/facilities/photo_tabs/04.jpg')">
-                                            <div class="fci_sin_med_text"><?=site_text('Bouhamra Clinic', 'بوحمره كلينك');?></div>
+                                            <div class="fci_sin_med_text"><?=site_text('Bouhamra  Clinic', 'بوحمره كلينك');?></div>
                                         </div>
                                     </a>
                                     <div class="faci_hidden_cont" id="mt01_st06_04">
