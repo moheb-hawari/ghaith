@@ -11,7 +11,6 @@ $pageSubName = 'careers';
 <!-- ========================================= Main Header Start ========================================= -->
 <?php include('header.php');?>
 <!-- Main Header End -->
-
 <!-- =========================================  Careers Page Start ========================================= -->
 <section class="main_sction hmn_res_sec">
     <div class="container">
