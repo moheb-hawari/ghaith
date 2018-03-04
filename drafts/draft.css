@@ -1,0 +1,81 @@
+/* ================= Scroll Navbar Start ================= */
+/*Head Social Meadia*/
+.scrollNavbar .head_smed {
+
+}
+.scrollNavbar .site_lang {
+
+}
+.scrollNavbar .hd_sm_list {
+
+}
+.scrollNavbar .hd_sm_list > li > a {
+
+}
+.scrollNavbar .hd_sm_list > li > a > i {
+
+}
+/*Web Navbar*/
+.scrollNavbar .web_nav, .scrollNavbar .nav_lk_list {
+
+}
+.scrollNavbar .wb_nv_cont .nav_logo img {
+
+}
+.scrollNavbar .nav_lk_list > li {
+
+}
+.scrollNavbar .nav_lk_list > li > a > span, .scrollNavbar .wb_nv_cont .sub_mneu_ttle > span {
+
+}
+.scrollNavbar .nav_lk_list > li.active > a > span, .scrollNavbar .nav_lk_list > li.active .sub_mneu_ttle > span {
+
+}
+.scrollNavbar .web_sbmnu_lst {
+
+}
+/*Scroll Navbar End*/
+
+
+/* =================================== Common Diseases Start =================================== */
+.com_dise_ttle {
+    text-transform: capitalize;
+    font-size: 32px;
+    font-weight: 700;
+    color: #e51e26;
+    margin-bottom: 20px;
+}
+.sin_dis_post {
+    overflow: hidden;
+    padding: 20px 0;
+    color: #222d7d;
+}
+.sin_dis_post:not(:nth-last-of-type(1)) {
+    border-bottom: 1px solid #e51e26;
+}
+.sin_dis_desc {
+    float: left;
+    width: 68%;
+    margin-right: 2%;
+}
+.sin_dis_ttle {
+    font-size: 23px;
+    font-weight: 700;
+}
+.sin_dis_txt {
+    font-family: 'Helvetica Neue Light', 'Droid Arabic Kufi', "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+.dis_rd_more {
+    text-align: right;
+}
+.sin_dis_img {
+    float: left;
+    width: 30%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/*Common Diseases Page End*/
